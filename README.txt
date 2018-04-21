@@ -1,0 +1,6 @@
+Jackson Deng, dengjack@usc.edu,
+Matt Levonian, emlevoni@usc.edu,
+Tilghman Naylor Jr., tnaylor@usc.edu,
+Robert Fichman, fichman@usc.edu,
+Jason Ulloa, jasonull@usc.edu,
+Shaina Gill, shainagi@usc.edu,
